@@ -1,7 +1,8 @@
 repo_name: ManUtopiK/mercurius
 report_id: 934e161eda272f9755ec1708f7e0681e
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T18:33:12+00:00'
+timestamp: '2024-01-05T08:21:29+00:00'
 requested_by: mcollina
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ManUtopiK/mercurius
   detection_source: Repo Metadata
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/ManUtopiK/mercurius
   detection_source: Repo Metadata
 - name: Fastify
   description: Fast and low overhead web framework, for Node.js
@@ -49,6 +52,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/ManUtopiK/mercurius/blob/master/package.json
   detection_source: package.json
   last_updated_by: Matteo Collina
   last_updated_on: 2018-09-11 14:43:44.000000000 Z
@@ -61,6 +65,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/ManUtopiK/mercurius/blob/master/examples/graphiql-plugin/plugin-sources/src/plugin.jsx
   detection_source: examples/graphiql-plugin/plugin-sources/src/plugin.jsx
   last_updated_by: Davide Fiorello
   last_updated_on: 2022-10-20 10:56:13.000000000 Z
@@ -72,6 +77,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Query Languages
   image_url: https://img.stackshare.io/service/3820/12972006.png
+  detection_source_url: https://github.com/ManUtopiK/mercurius/blob/master/package.json
   detection_source: package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-01-30 16:08:38.000000000 Z
@@ -84,6 +90,7 @@ tools:
   category: Application Hosting
   sub_category: Realtime Backend / API
   image_url: https://img.stackshare.io/service/11381/no-img-open-source.png
+  detection_source_url: https://github.com/ManUtopiK/mercurius/blob/master/package.json
   detection_source: package.json
   last_updated_by: Matteo Collina
   last_updated_on: 2018-09-11 14:43:44.000000000 Z
@@ -96,6 +103,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/ManUtopiK/mercurius/blob/master/package.json
   detection_source: package.json
   last_updated_by: Matteo Collina
   last_updated_on: 2018-09-11 14:43:44.000000000 Z
@@ -107,6 +115,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ManUtopiK/mercurius
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -116,6 +125,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/ManUtopiK/mercurius/blob/master/.github/workflows/backport.yml
   detection_source: ".github/workflows/backport.yml"
   last_updated_by: Jonny Green
   last_updated_on: 2022-03-09 15:05:46.000000000 Z
@@ -140,6 +150,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/ManUtopiK/mercurius/blob/master/package.json
   detection_source: package.json
   last_updated_by: Matteo Collina
   last_updated_on: 2018-09-11 14:43:44.000000000 Z
@@ -164,6 +175,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg
+  detection_source_url: https://github.com/ManUtopiK/mercurius/blob/master/examples/graphiql-plugin/plugin-sources/package.json
   detection_source: examples/graphiql-plugin/plugin-sources/package.json
   last_updated_by: Davide Fiorello
   last_updated_on: 2022-10-20 10:56:13.000000000 Z
@@ -173,6 +185,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/ManUtopiK/mercurius/blob/master/index.html
   detection_source: index.html
   last_updated_by: Pablo Sáez
   last_updated_on: 2020-10-18 15:16:07.000000000 Z
@@ -185,6 +198,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/ManUtopiK/mercurius
   detection_source: Repo Metadata
 - name: "@rollup/plugin-node-resolve"
   description: Locate and bundle third-party dependencies in node_modules
